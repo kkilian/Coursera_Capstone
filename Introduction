@@ -3,4 +3,6 @@ Hi i want to give you short introduction to my project.
 Main problem that i will try to solve is increasing number of collisions in Seattle. Recently authorities have come with an initiative for building emergency system that will send 
 information to every citizen when specific condition occurs. 
 In this project i am going to analyze collisions dataset for Seattle city. Based on this data i will build machine learning model to predict wheather particular conditions are dangerous
-and wheather there is need to alert citizens by SMS information, put more police patrols on streets and limit speed limits.
+and wheather there is need to alert citizens by SMS information, put more police patrols on streets and limit speed limits.We will be looking at different columns to figure out predicting about
+the accidents severity. After we can predict the accident severity, we can make some recommendation to law enforcement for looking into this and be prepared for the future.
+We can also have more emergency medical services available for those situations.
